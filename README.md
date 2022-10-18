@@ -1,2 +1,0 @@
-# ODispatch
-Food delivery App
